@@ -1,27 +1,30 @@
-[
-  {
-		"title": "Title",
-		"address": "Blommegade 1",
-		"icon": "icon"
-	},
-	{
-		"title": "Title",
-		"address": "Blommegade 1",
-		"icon": "icon"
-	},
-	{
-		"title": "Title",
-		"address": "Blommegade 1",
-		"icon": "icon"
-	},
-	{
-		"title": "Title",
-		"address": "Blommegade 1",
-		"icon": "icon"
-	},
-	{
-		"title": "Title",
-		"address": "Blommegade 1",
-		"icon": "icon"
+{
+	"ResourceEventResponse": {
+		"events": [{
+				"title": "Title",
+				"address": "Blommegade 1",
+				"icon": "icon"
+			},
+			{
+				"title": "Title",
+				"address": "Blommegade 1",
+				"icon": "icon"
+			},
+			{
+				"title": "Title",
+				"address": "Blommegade 1",
+				"icon": "icon"
+			},
+			{
+				"title": "Title",
+				"address": "Blommegade 1",
+				"icon": "icon"
+			},
+			{
+				"title": "Title",
+				"address": "Blommegade 1",
+				"icon": "icon"
+			}
+		]
 	}
-]
+}
